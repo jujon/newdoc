@@ -1,0 +1,6 @@
+Direcciones útiles
+------------------
+
+Comandos muy resumidos:
+
+http://rogerdudler.github.io/git-guide/index.es.html
