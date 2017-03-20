@@ -1,2 +1,4 @@
 # Ignorar fichero abierto de libreoffice
 .~*.*#
+# Ignorar ficheros procedentes del historico de meld
+*.orig
